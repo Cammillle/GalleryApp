@@ -2,4 +2,13 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="light_gray">#E8E7E7</color>
+    <color name="gray">#FDFDFD</color>
+    <color name = "red">#C62020</color>
+
+    <color name = "boxStrokeFocusedColor">@color/light_gray</color>
+    <color name = "boxStrokeUnfocusedColor">@color/light_gray</color>
+    <color name="errorColor">@color/red</color>
+    <color name="boxBackgroundColor">@color/gray</color>
+
 </resources>

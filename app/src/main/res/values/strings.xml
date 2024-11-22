@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">GalleryApp</string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="title_tv">Вход\n</string>
+    <string name="title_auth_text">Вход\n</string>
+    <string name="auth_login_text">Логин</string>
+    <string name="auth_password_text">Пароль\n</string>
+    <string name="auth_error_text">Логин или пароль введен неправильно\n</string>
 </resources>
