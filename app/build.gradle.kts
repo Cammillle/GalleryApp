@@ -65,6 +65,7 @@ dependencies {
     implementation("androidx.navigation:navigation-fragment:$nav_version")
     implementation("androidx.navigation:navigation-ui:$nav_version")
 
+    implementation ("com.redmadrobot:input-mask-android:7.2.4")
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)

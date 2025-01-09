@@ -5,4 +5,8 @@
     <string name="auth_login_text">Логин</string>
     <string name="auth_password_text">Пароль\n</string>
     <string name="auth_error_text">Логин или пароль введен неправильно\n</string>
+    <string name="login_error_empty">Поле не может быть пустым</string>
+    <string name="login_error_not_valid">Неверный формат телефона</string>
+    <string name="password_error_empty">Поле не может быть пустым</string>
+    <string name="password_error_not_valid">Пароль должен быть от 6 до 255 символов</string>
 </resources>

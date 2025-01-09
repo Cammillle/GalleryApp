@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/white"
-    tools:context=".presentaion.AuthFragment">
+    tools:context=".presentaion.auth.AuthFragment">
 
     <TextView
         android:id="@+id/textView"
@@ -33,6 +33,7 @@
         <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/login_edt"
             style="@style/DefaultTextInputEditText"
+            android:imeOptions="actionNext"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/auth_login_text"
